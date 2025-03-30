@@ -102,3 +102,5 @@ env = /home/biqu/mobileraker-env/bin/python
 requirements = scripts/mobileraker-requirements.txt
 install_script = scripts/install.sh
 
+[timelapse]
+
